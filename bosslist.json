@@ -14,17 +14,6 @@
       {  
          "level":50,
          "names":{  
-            "en":"Gugalanna",
-            "jpn":"グガランナ"
-         },
-         "pic":{  
-            "en":"Cn7oyJMVIAADNSZ.jpg",
-            "jpn":"Cn7ovYLVIAARrtA.jpg"
-         }
-      },
-      {  
-         "level":50,
-         "names":{  
             "en":"Colossus",
             "jpn":"コロッサス"
          },
@@ -86,17 +75,6 @@
          "pic":{  
             "en":"CfqW-MVUIAEJrDP.jpg",
             "jpn":"CT6cXcgUEAEc0Zl.jpg"
-         }
-      },
-      {  
-         "level":50,
-         "names":{  
-            "en":"Lord Daimon",
-            "jpn":"覇壊神ダイモン"
-         },
-         "pic":{  
-            "en":"",
-            "jpn":""
          }
       },
       {  
@@ -848,5 +826,5 @@
          }
       }
    ],
-   "version":1.7
+   "version":1.8
 }
