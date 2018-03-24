@@ -89,6 +89,17 @@
          }
       },
       {  
+         "level":50,
+         "names":{  
+            "en":"Lord Daimon",
+            "jpn":"覇壊神ダイモン"
+         },
+         "pic":{  
+            "en":"",
+            "jpn":""
+         }
+      },
+      {  
          "level":60,
          "names":{  
             "en":"Gugalanna",
@@ -837,5 +848,5 @@
          }
       }
    ],
-   "version":1.6
+   "version":1.7
 }
