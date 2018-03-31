@@ -78,6 +78,17 @@
          }
       },
       {  
+         "level":50,
+         "names":{  
+            "en":"Emperor Tyrias",
+            "jpn":"覇壊大帝デスロウ"
+         },
+         "pic":{  
+            "en":"",
+            "jpn":""
+         }
+      },
+      {  
          "level":60,
          "names":{  
             "en":"Gugalanna",
@@ -606,6 +617,17 @@
          }
       },
       {  
+         "level":100,
+         "names":{  
+            "en":"Tyrias the Destroyer",
+            "jpn":"壊人デスロウ"
+         },
+         "pic":{  
+            "en":"",
+            "jpn":""
+         }
+      },
+      {  
          "level":110,
          "names":{  
             "en":"Rose Queen",
@@ -799,8 +821,8 @@
             "jpn":"メタトロン"
          },
          "pic":{  
-            "en":"",
-            "jpn":""
+            "en":"DZVlpmXU8AEbF6G.jpg",
+            "jpn":"DZVln20U0AAIFLt.jpg"
          }
       },
       {  
@@ -810,8 +832,8 @@
             "jpn":"アバター"
          },
          "pic":{  
-            "en":"",
-            "jpn":""
+            "en":"DZVlsKMVMAAOgTU.jpg",
+            "jpn":"DZVlq39U0AIRPF2.jpg"
          }
       },
       {  
