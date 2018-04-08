@@ -1,5 +1,6 @@
 {  
    "list":[  
+       {"level":30,"names":{"en":"Devastation Cannon","jpn":"自律駆動ガトリング砲"},"pic":{"en":"","jpn":""}},
        {"level":50,"names":{"en":"Adversa","jpn":"アドウェルサ"},"pic":{"en":"CfqXHXPUUAAh0PQ.jpg","jpn":"CT6cgc5UYAIhJoB.jpg"}},
        {"level":50,"names":{"en":"Colossus","jpn":"コロッサス"},"pic":{"en":"CfqW62PUAAA6QTY.jpg","jpn":"CT6cUf8VEAEBaEb.jpg"}},
        {"level":50,"names":{"en":"Celeste","jpn":"セレスト"},"pic":{"en":"CfqXLhHUEAAF92L.jpg","jpn":"CT6cmzjUcAIvSo_.jpg"}},
@@ -7,7 +8,7 @@
        {"level":50,"names":{"en":"Tiamat Omega","jpn":"ティアマト・マグナ"},"pic":{"en":"CfqXQA3UMAEMV7O.jpg","jpn":"CT6buTPUwAIM9VJ.jpg"}},
        {"level":50,"names":{"en":"Yggdrasil","jpn":"ユグドラシル"},"pic":{"en":"CfqXDAQVIAAixiA.jpg","jpn":"CT6cbScU8AAgXRw.jpg"}},
        {"level":50,"names":{"en":"Leviathan","jpn":"リヴァイアサン"},"pic":{"en":"CfqW-MVUIAEJrDP.jpg","jpn":"CT6cXcgUEAEc0Zl.jpg"}},
-       {"level":50,"names":{"en":"Emperor Tyrias","jpn":"覇壊大帝デスロウ"},"pic":{"en":"","jpn":""}},
+       {"level":50,"names":{"en":"Devastation Cannon","jpn":"自律駆動ガトリング砲"},"pic":{"en":"","jpn":""}},
        {"level":60,"names":{"en":"Yggdrasil Omega","jpn":"ユグドラシル・マグナ"},"pic":{"en":"CfuZgxLUkAArdGe.jpg","jpn":"CT6cDD3UkAEnP8Y.jpg"}},
        {"level":60,"names":{"en":"Leviathan Omega","jpn":"リヴァイアサン・マグナ"},"pic":{"en":"CfqXTAQUAAAu3ox.jpg","jpn":"CT6cBK3U8AA4xdW.jpg"}},
        {"level":60,"names":{"en":"Zhuque","jpn":"朱雀"},"pic":{"en":"CfqaDdDVIAAepIk.jpg","jpn":"CfqNV2pUAAAFTq8.jpg"}},
@@ -21,7 +22,6 @@
        {"level":90,"names":{"en":"Neptune","jpn":"ネプチューン"},"pic":{"en":"CfqZdStUkAAArtS.jpg","jpn":"CV1lT4ZUsAEaflM.jpg"}},
        {"level":90,"names":{"en":"Titan","jpn":"ティターン"},"pic":{"en":"CfqZ8BCUUAA-5tq.jpg","jpn":"Cb8Squ1VIAAeo69.jpg"}},
        {"level":90,"names":{"en":"Zephyrus","jpn":"ゼピュロス"},"pic":{"en":"CfqZsXWUMAAcI9R.jpg","jpn":"CYpGC_4WAAAQ6IM.jpg"}},
-       {"level":95,"names":{"en":"Bella Donna","jpn":"ベラドンナ"},"pic":{"en":"C7ROtiNU0AA4p0U.jpg","jpn":"C7ROpcsVAAE0VPW.jpg"}},
        {"level":100,"names":{"en":"Dark Angel Olivia","jpn":"Dエンジェル・オリヴィエ"},"pic":{"en":"CfqXOjEUMAAXuK2.jpg","jpn":"CT6csqNVAAA_GFU.jpg"}},
        {"level":100,"names":{"en":"Athena","jpn":"アテナ"},"pic":{"en":"Cg7oBQ_UYAEAIK7.jpg","jpn":"Cg7oAJsUkAApRif.jpg"}},
        {"level":100,"names":{"en":"Apollo","jpn":"アポロン"},"pic":{"en":"CfqXI0lVAAAQgcj.jpg","jpn":"CT6chwtUsAA0WFw.jpg"}},
@@ -39,7 +39,6 @@
        {"level":100,"names":{"en":"Baal","jpn":"バアル"},"pic":{"en":"CjLxhwmUoAEglVC.jpg","jpn":"CjLxgrbUgAAFbwi.jpg"}},
        {"level":100,"names":{"en":"Twin Elements","jpn":"フラム＝グラス"},"pic":{"en":"CfqXaAvUIAEUC8B.jpg","jpn":"CT_qpfCUsAA9vfF.jpg"}},
        {"level":100,"names":{"en":"Proto Bahamut","jpn":"プロトバハムート"},"pic":{"en":"CfqXYlBUAAQ1mtV.jpg","jpn":"CT6cIKmUYAAPVmD.jpg"}},
-       {"level":100,"names":{"en":"Bella Donna","jpn":"ベラドンナ"},"pic":{"en":"C7ROusaV0AE1tLe.jpg","jpn":"C7ROqzdU0AAwrII.jpg"}},
        {"level":100,"names":{"en":"Macula Marius","jpn":"マキュラ・マリウス"},"pic":{"en":"CfqXAC1UIAAeGl-.jpg","jpn":"CT6cYp-UsAAy_f0.jpg"}},
        {"level":100,"names":{"en":"Michael","jpn":"ミカエル"},"pic":{"en":"C666-DPVAAAS94m.jpg","jpn":"C6668rmVsAAjpu1.jpg"}},
        {"level":100,"names":{"en":"Medusa","jpn":"メドゥーサ"},"pic":{"en":"CfqXEh_UsAEb9dw.jpg","jpn":"CT6ccesVEAAy_Kx.jpg"}},
@@ -49,7 +48,6 @@
        {"level":100,"names":{"en":"Leviathan Omega","jpn":"リヴァイアサン・マグナ"},"pic":{"en":"CfqZfExVIAA4YgF.jpg","jpn":"CYBkbZSUAAA2BW-.jpg"}},
        {"level":100,"names":{"en":"Huanglong","jpn":"黄龍"},"pic":{"en":"ClrgGy_VYAAz-yc.jpg","jpn":"ClrgFhVVYAECRRD.jpg"}},
        {"level":100,"names":{"en":"Qilin","jpn":"黒麒麟"},"pic":{"en":"ClrgI8vUoAEhtoU.jpg","jpn":"ClrgH4wUYAAax1o.jpg"}},
-       {"level":100,"names":{"en":"Tyrias the Destroyer","jpn":"壊人デスロウ"},"pic":{"en":"","jpn":""}},
        {"level":110,"names":{"en":"Rose Queen","jpn":"ローズクイーン"},"pic":{"en":"CfqZNDiUEAEkvHp.jpg","jpn":"CUnrstgUYAA4hOz.jpg"}},
        {"level":120,"names":{"en":"Dark Angel Olivia","jpn":"Dエンジェル・オリヴィエ"},"pic":{"en":"CfqZ3BwVIAEtIgy.jpg","jpn":"CbTeSqbUcAARoNV.jpg"}},
        {"level":120,"names":{"en":"Anubis","jpn":"アヌビス"},"pic":{"en":"CzcJDQgUoAAgX-J.jpg","jpn":"CzcJCMtVEAEbPjY.jpg"}},
@@ -71,5 +69,5 @@
        {"level":120,"names":{"en":"Avatar","jpn":"アバター"},"pic":{"en":"DZVlsKMVMAAOgTU.jpg","jpn":"DZVlq39U0AIRPF2.jpg"}},
        {"level":150,"names":{"en":"Proto Bahamut","jpn":"プロトバハムート"},"pic":{"en":"CfqZ-YtVAAAt5qd.jpg","jpn":"CdL4WyxUYAIXPb8.jpg"}}
    ],
-   "version":5
+   "version":6
 }
