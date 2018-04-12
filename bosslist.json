@@ -61,13 +61,13 @@
        {"level":60 ,"TYPE":"FOUR_BEASTS"    ,"names":{"en":"Zhuque","jpn":"朱雀","zh":"朱雀"},"pic":{"en":"CfqaDdDVIAAepIk.jpg","jpn":"CfqNV2pUAAAFTq8.jpg"}},
        {"level":60 ,"TYPE":"FOUR_BEASTS"    ,"names":{"en":"Xuanwu","jpn":"玄武","zh":"玄武"},"pic":{"en":"CfqZbjhUYAAVSmy.jpg","jpn":"CV1lVejVEAAmxT6.jpg"}},
        {"level":60 ,"TYPE":"FOUR_BEASTS"    ,"names":{"en":"Baihu","jpn":"白虎","zh":"白虎"},"pic":{"en":"CfqZ6jxUsAEWOJy.jpg","jpn":"Cb8So5kVAAA_a_D.jpg"}},
-       {"level":60 ,"TYPE":"FOUR_BEASTS"    ,"names":{"en":"Qinglong","jpn":"青竜","zh":"青竜"},"pic":{"en":"CfqZqhvVAAAlhoU.jpg","jpn":"CYpGBIuW8AEniTh.jpg"}},
+       {"level":60 ,"TYPE":"FOUR_BEASTS"    ,"names":{"en":"Qinglong","jpn":"青竜","zh":"青龙"},"pic":{"en":"CfqZqhvVAAAlhoU.jpg","jpn":"CYpGBIuW8AEniTh.jpg"}},
        {"level":90 ,"TYPE":"FOUR_BEASTS"    ,"names":{"en":"Agni","jpn":"アグニス","zh":"阿拟尼（火老王）"},"pic":{"en":"CfqaB5sUMAEKuSe.jpg","jpn":"CfqNXEVVIAEcN0B.jpg"}},
        {"level":90 ,"TYPE":"FOUR_BEASTS"    ,"names":{"en":"Neptune","jpn":"ネプチューン","zh":"尼普顿"},"pic":{"en":"CfqZdStUkAAArtS.jpg","jpn":"CV1lT4ZUsAEaflM.jpg"}},
        {"level":90 ,"TYPE":"FOUR_BEASTS"    ,"names":{"en":"Titan","jpn":"ティターン","zh":"泰坦（土老王）"},"pic":{"en":"CfqZ8BCUUAA-5tq.jpg","jpn":"Cb8Squ1VIAAeo69.jpg"}},
        {"level":90 ,"TYPE":"FOUR_BEASTS"    ,"names":{"en":"Zephyrus","jpn":"ゼピュロス","zh":"泽费奴斯（风老王）"},"pic":{"en":"CfqZsXWUMAAcI9R.jpg","jpn":"CYpGC_4WAAAQ6IM.jpg"}},
-       {"level":100,"TYPE":"FOUR_BEASTS"    ,"names":{"en":"Huanglong","jpn":"黄龍","zh":"黄龍"},"pic":{"en":"ClrgGy_VYAAz-yc.jpg","jpn":"ClrgFhVVYAECRRD.jpg"}},
-       {"level":100,"TYPE":"FOUR_BEASTS"    ,"names":{"en":"Qilin","jpn":"黒麒麟","zh":"黒麒麟"},"pic":{"en":"ClrgI8vUoAEhtoU.jpg","jpn":"ClrgH4wUYAAax1o.jpg"}}
+       {"level":100,"TYPE":"FOUR_BEASTS"    ,"names":{"en":"Huanglong","jpn":"黄龍","zh":"黄龙"},"pic":{"en":"ClrgGy_VYAAz-yc.jpg","jpn":"ClrgFhVVYAECRRD.jpg"}},
+       {"level":100,"TYPE":"FOUR_BEASTS"    ,"names":{"en":"Qilin","jpn":"黒麒麟","zh":"黑麒麟"},"pic":{"en":"ClrgI8vUoAEhtoU.jpg","jpn":"ClrgH4wUYAAax1o.jpg"}}
    ],
-   "version":9
+   "version":10
 }
