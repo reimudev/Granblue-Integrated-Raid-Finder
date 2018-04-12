@@ -37,8 +37,8 @@
        {"level":120,"TYPE":"VER2HL"         ,"names":{"en":"Nezha","jpn":"ナタク","zh":"哪吒HL"},"pic":{"en":"CfqW4BYUEAAeYSR.jpg","jpn":"CT6cQD-UcAE3nt2.jpg"}},
        {"level":120,"TYPE":"VER2HL"         ,"names":{"en":"Twin Elements","jpn":"フラム＝グラス","zh":"双子HL"},"pic":{"en":"CfqZQ_pUEAAQFI4.jpg","jpn":"CVL2EBHUwAA8nUj.jpg"}},
        {"level":120,"TYPE":"VER2HL"         ,"names":{"en":"Macula Marius","jpn":"マキュラ・マリウス","zh":"冰皇HL"},"pic":{"en":"CfqZhE0UsAA_JqS.jpg","jpn":"CYBkd_1UEAATH9J.jpg"}},
-       {"level":120,"TYPE":"VER2HL"         ,"names":{"en":"Medusa","jpn":"メドゥーサ","zh":"美杜莎HL"}},"pic":{"en":"CfqZlIcVIAAp8e_.jpg","jpn":"CYBki-CUkAQVWW_.jpg"}},
-       {"level":100,"TYPE":"VER3"           ,"names":{"en":"Athena","jpn":"アテナ","zh":"雅典娜"}},"pic":{"en":"Cg7oBQ_UYAEAIK7.jpg","jpn":"Cg7oAJsUkAApRif.jpg"}},
+       {"level":120,"TYPE":"VER2HL"         ,"names":{"en":"Medusa","jpn":"メドゥーサ","zh":"美杜莎HL"},"pic":{"en":"CfqZlIcVIAAp8e_.jpg","jpn":"CYBki-CUkAQVWW_.jpg"}},
+       {"level":100,"TYPE":"VER3"           ,"names":{"en":"Athena","jpn":"アテナ","zh":"雅典娜"},"pic":{"en":"Cg7oBQ_UYAEAIK7.jpg","jpn":"Cg7oAJsUkAApRif.jpg"}},
        {"level":100,"TYPE":"VER3"           ,"names":{"en":"Odin","jpn":"オーディン","zh":"奥丁"},"pic":{"en":"CqwDWGjUIAEeJ4s.jpg","jpn":"CqwDU_jUkAQjgKq.jpg"}},
        {"level":100,"TYPE":"VER3"           ,"names":{"en":"Garuda","jpn":"ガルーダ","zh":"迦楼罗"},"pic":{"en":"CkVbjdpUYAAmnvb.jpg","jpn":"CkVbhuqVEAA7e6K.jpg"}},
        {"level":100,"TYPE":"VER3"           ,"names":{"en":"Grani","jpn":"グラニ","zh":"格拉尼"},"pic":{"en":"CqwDYIbVMAE0VUR.jpg","jpn":"CqwDXDkUMAAjCE5.jpg"}},
@@ -69,5 +69,5 @@
        {"level":100,"TYPE":"FOUR_BEASTS"    ,"names":{"en":"Huanglong","jpn":"黄龍","zh":"黄龍"},"pic":{"en":"ClrgGy_VYAAz-yc.jpg","jpn":"ClrgFhVVYAECRRD.jpg"}},
        {"level":100,"TYPE":"FOUR_BEASTS"    ,"names":{"en":"Qilin","jpn":"黒麒麟","zh":"黒麒麟"},"pic":{"en":"ClrgI8vUoAEhtoU.jpg","jpn":"ClrgH4wUYAAax1o.jpg"}}
    ],
-   "version":7
+   "version":8
 }
