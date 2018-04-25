@@ -1,6 +1,7 @@
 {  
    "list":[  
-       {"level":90 ,"TYPE":"GUILD_WAR"     ,"names":{"en":"Typhon","jpn":"テュポーン","zh":"提丰（90HELL）"},"pic":{"en":"","jpn":""}},
+       {"level":95 ,"TYPE":"GUILD_WAR"     ,"names":{"en":"Typhon","jpn":"テュポーン","zh":"提丰（95HELL）"},"pic":{"en":"DbgtSrIVQAATHNJ.jpg","jpn":"DbgtRVZVwAEoGEf.jpg"}},
+       {"level":90 ,"TYPE":"GUILD_WAR"     ,"names":{"en":"Typhon","jpn":"テュポーン","zh":"提丰（90HELL）"},"pic":{"en":"DbgtP-cVMAA_F1a.jpg","jpn":"DbgtONrUQAAMtXh.jpg"}},
        {"level":75 ,"TYPE":"GUILD_WAR"     ,"names":{"en":"Wicked Rebel","jpn":"ウィケッドレブル","zh":"Ex+牛"},"pic":{"en":"DC_FPGhVoAATw0A.jpg","jpn":"CZoDFuLWwAAyx1o.jpg"}},
        {"level":60 ,"TYPE":"GUILD_WAR"     ,"names":{"en":"Behemoth","jpn":"ベヒーモス","zh":"Ex牛"},"pic":{"en":"DC_FslmVoAAyA5o.jpg","jpn":"DC_FpzEUwAEx37V.jpg"}},
        {"level":50 ,"TYPE":"GUILD_WAR"     ,"names":{"en":"Behemoth","jpn":"ベヒーモス","zh":"VH牛"},"pic":{"en":"DC_FrNIUQAAfDMk.jpg","jpn":"DC_FoBGVYAAY5d8.jpg"}},
