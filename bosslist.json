@@ -1,5 +1,6 @@
 {  
    "list":[  
+       {"level":100,"TYPE":"GUILD_WAR"     ,"names":{"en":"Typhon","jpn":"テュポーン","zh":"提丰（100HELL）"},"pic":{"en":"DbgtVPxUQAA8ow3.jpg","jpn":"DbgtT7uU8AA-ZGy.jpg"}},
        {"level":95 ,"TYPE":"GUILD_WAR"     ,"names":{"en":"Typhon","jpn":"テュポーン","zh":"提丰（95HELL）"},"pic":{"en":"DbgtSrIVQAATHNJ.jpg","jpn":"DbgtRVZVwAEoGEf.jpg"}},
        {"level":90 ,"TYPE":"GUILD_WAR"     ,"names":{"en":"Typhon","jpn":"テュポーン","zh":"提丰（90HELL）"},"pic":{"en":"DbgtP-cVMAA_F1a.jpg","jpn":"DbgtONrUQAAMtXh.jpg"}},
        {"level":75 ,"TYPE":"GUILD_WAR"     ,"names":{"en":"Wicked Rebel","jpn":"ウィケッドレブル","zh":"Ex+牛"},"pic":{"en":"DC_FPGhVoAATw0A.jpg","jpn":"CZoDFuLWwAAyx1o.jpg"}},
@@ -72,5 +73,5 @@
        {"level":100,"TYPE":"FOUR_BEASTS"    ,"names":{"en":"Huanglong","jpn":"黄龍","zh":"黄龙"},"pic":{"en":"ClrgGy_VYAAz-yc.jpg","jpn":"ClrgFhVVYAECRRD.jpg"}},
        {"level":100,"TYPE":"FOUR_BEASTS"    ,"names":{"en":"Qilin","jpn":"黒麒麟","zh":"黑麒麟"},"pic":{"en":"ClrgI8vUoAEhtoU.jpg","jpn":"ClrgH4wUYAAax1o.jpg"}}
    ],
-   "version":15
+   "version":16
 }
