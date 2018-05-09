@@ -1,5 +1,7 @@
 {  
-   "list":[  
+   "list":[
+       {"level":30 ,"TYPE":"EVENT"          ,"names":{"en":"Fog Fungus","jpn":"闘虫禍草","zh":"活动VH"},"pic":{"en":"DctzVJFV0AIuxhe.jpg","jpn":"DctzT9BVMAAgajb.jpg"}},
+       {"level":50 ,"TYPE":"EVENT"          ,"names":{"en":"Master of the Mountain","jpn":"山のヌシ","zh":"活动EX"},"pic":{"en":"DctzSygUwAAFsOY.jpg","jpn":"DctzRnBVMAEpt5a.jpg"}},
        {"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Adversa","jpn":"アドウェルサ","zh":"小岛主（光）"},"pic":{"en":"CfqXHXPUUAAh0PQ.jpg","jpn":"CT6cgc5UYAIhJoB.jpg"}},
        {"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Colossus","jpn":"コロッサス","zh":"小岛主（火）"},"pic":{"en":"CfqW62PUAAA6QTY.jpg","jpn":"CT6cUf8VEAEBaEb.jpg"}},
        {"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Celeste","jpn":"セレスト","zh":"小岛主（暗）"},"pic":{"en":"CfqXLhHUEAAF92L.jpg","jpn":"CT6cmzjUcAIvSo_.jpg"}},
