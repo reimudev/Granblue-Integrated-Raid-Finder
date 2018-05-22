@@ -1,6 +1,5 @@
 {  
    "list":[
-       {"level":100,"TYPE":"EVENT"          ,"names":{"en":"Xeno Vohu Manah","jpn":"ゼノ・ウォフマナフ","zh":"真·瓦胡·馬納（土六道多人）"},"pic":{"en":"C7FV7OoVoAEr7os.jpg","jpn":"C7FV6BVVoAAA8Ai.jpg"}},
        {"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Adversa","jpn":"アドウェルサ","zh":"小岛主（光）"},"pic":{"en":"CfqXHXPUUAAh0PQ.jpg","jpn":"CT6cgc5UYAIhJoB.jpg"}},
        {"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Colossus","jpn":"コロッサス","zh":"小岛主（火）"},"pic":{"en":"CfqW62PUAAA6QTY.jpg","jpn":"CT6cUf8VEAEBaEb.jpg"}},
        {"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Celeste","jpn":"セレスト","zh":"小岛主（暗）"},"pic":{"en":"CfqXLhHUEAAF92L.jpg","jpn":"CT6cmzjUcAIvSo_.jpg"}},
@@ -8,11 +7,11 @@
        {"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Yggdrasil","jpn":"ユグドラシル","zh":"小岛主（土）"},"pic":{"en":"CfqXDAQVIAAixiA.jpg","jpn":"CT6cbScU8AAgXRw.jpg"}},
        {"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Leviathan","jpn":"リヴァイアサン","zh":"小岛主（水）"},"pic":{"en":"CfqW-MVUIAEJrDP.jpg","jpn":"CT6cXcgUEAEc0Zl.jpg"}},
        {"level":60 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Adversa","jpn":"アドウェルサ","zh":"小岛主HARD+（光）"},"pic":{"en":"DdrvTl4V4AE3Qeu.jpg","jpn":"DdrvSWVUwAAiYu5.jpg"}},
-       {"level":60 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Colossus","jpn":"コロッサス","zh":"小岛主HARD+（火）"},"pic":{"en":"","jpn":"DdrvG8UVAAAO33N.jpg"}},
+       {"level":60 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Colossus","jpn":"コロッサス","zh":"小岛主HARD+（火）"},"pic":{"en":"DdrvIKUVwAAgs2c.jpg","jpn":"DdrvG8UVAAAO33N.jpg"}},
        {"level":60 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Celeste","jpn":"セレスト","zh":"小岛主HARD+（暗）"},"pic":{"en":"DdrvV_tVwAAO2Yt.jpg","jpn":"DdrvUz3V0AEtbgx.jpg"}},
-       {"level":60 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Tiamat","jpn":"ティアマト","zh":"小岛主HARD+（风）"},"pic":{"en":"","jpn":"DdrvEShUwAAXi6X.jpg"}},
-       {"level":60 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Yggdrasil","jpn":"ユグドラシル","zh":"小岛主HARD+（土）"},"pic":{"en":"","jpn":"DdrvPf-UQAEqqMv.jpg"}},
-       {"level":60 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Leviathan","jpn":"リヴァイアサン","zh":"小岛主HARD+（水）"},"pic":{"en":"","jpn":"DdrvJ2KU8AEthfi.jpg"}},
+       {"level":60 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Tiamat","jpn":"ティアマト","zh":"小岛主HARD+（风）"},"pic":{"en":"DdrvFqzU8AAqSv7.jpg","jpn":"DdrvEShUwAAXi6X.jpg"}},
+       {"level":60 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Yggdrasil","jpn":"ユグドラシル","zh":"小岛主HARD+（土）"},"pic":{"en":"DdrvQymU8AAt_j-.jpg","jpn":"DdrvPf-UQAEqqMv.jpg"}},
+       {"level":60 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Leviathan","jpn":"リヴァイアサン","zh":"小岛主HARD+（水）"},"pic":{"en":"DdrvLavV4AIy-eK.jpg","jpn":"DdrvJ2KU8AEthfi.jpg"}},
        {"level":50 ,"TYPE":"OMEGA_EX"       ,"names":{"en":"Tiamat Omega","jpn":"ティアマト・マグナ","zh":"提亚马特（提妈）"},"pic":{"en":"CfqXQA3UMAEMV7O.jpg","jpn":"CT6buTPUwAIM9VJ.jpg"}},
        {"level":60 ,"TYPE":"OMEGA_EX"       ,"names":{"en":"Yggdrasil Omega","jpn":"ユグドラシル・マグナ","zh":"尤古多拉希尔（土妹）"},"pic":{"en":"CfuZgxLUkAArdGe.jpg","jpn":"CT6cDD3UkAEnP8Y.jpg"}},
        {"level":60 ,"TYPE":"OMEGA_EX"       ,"names":{"en":"Leviathan Omega","jpn":"リヴァイアサン・マグナ","zh":"利维坦（泥鳅）"},"pic":{"en":"CfqXTAQUAAAu3ox.jpg","jpn":"CT6cBK3U8AA4xdW.jpg"}},
@@ -76,5 +75,5 @@
        {"level":100,"TYPE":"FOUR_BEASTS"    ,"names":{"en":"Huanglong","jpn":"黄龍","zh":"黄龙"},"pic":{"en":"ClrgGy_VYAAz-yc.jpg","jpn":"ClrgFhVVYAECRRD.jpg"}},
        {"level":100,"TYPE":"FOUR_BEASTS"    ,"names":{"en":"Qilin","jpn":"黒麒麟","zh":"黑麒麟"},"pic":{"en":"ClrgI8vUoAEhtoU.jpg","jpn":"ClrgH4wUYAAax1o.jpg"}}
    ],
-   "version":24
+   "version":25
 }
