@@ -1,5 +1,7 @@
 {  
    "list":[   
+       {"level":30 ,"TYPE":"EVENT"     ,"names":{"en":"Nihilith","jpn":"ニヒリス","zh":"活动VH"},"pic":{"en":"","jpn":""}},
+       {"level":50 ,"TYPE":"EVENT"     ,"names":{"en":"Nihilith","jpn":"ニヒリス","zh":"活动EX"},"pic":{"en":"","jpn":""}},
        {"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Adversa","jpn":"アドウェルサ","zh":"小岛主（光）"},"pic":{"en":"CfqXHXPUUAAh0PQ.jpg","jpn":"CT6cgc5UYAIhJoB.jpg"}},
        {"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Colossus","jpn":"コロッサス","zh":"小岛主（火）"},"pic":{"en":"CfqW62PUAAA6QTY.jpg","jpn":"CT6cUf8VEAEBaEb.jpg"}},
        {"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Celeste","jpn":"セレスト","zh":"小岛主（暗）"},"pic":{"en":"CfqXLhHUEAAF92L.jpg","jpn":"CT6cmzjUcAIvSo_.jpg"}},
@@ -75,5 +77,5 @@
        {"level":100,"TYPE":"FOUR_BEASTS"    ,"names":{"en":"Huanglong","jpn":"黄龍","zh":"黄龙"},"pic":{"en":"ClrgGy_VYAAz-yc.jpg","jpn":"ClrgFhVVYAECRRD.jpg"}},
        {"level":100,"TYPE":"FOUR_BEASTS"    ,"names":{"en":"Qilin","jpn":"黒麒麟","zh":"黑麒麟"},"pic":{"en":"ClrgI8vUoAEhtoU.jpg","jpn":"ClrgH4wUYAAax1o.jpg"}}
    ],
-   "version":50
+   "version":51
 }
