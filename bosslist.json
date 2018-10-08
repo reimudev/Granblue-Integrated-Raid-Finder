@@ -1,8 +1,5 @@
 {  
 "list":[   
-{"id":0  ,"level":30 ,"TYPE":"EVENT"           ,"names":{"en":"Cockeyed Man","jpn":"ひねた目つきの男","zh":"活动HARD"},"pic":{"en":"","jpn":""}},
-{"id":1  ,"level":50 ,"TYPE":"EVENT"           ,"names":{"en":"Heavy-Duty Mining Excavator","jpn":"坑道用大型掘削機","zh":"活动Ex"},"pic":{"en":"","jpn":""}},
-{"id":2  ,"level":100,"TYPE":"EVENT"           ,"names":{"en":"Heavy-Duty Mining Excavator","jpn":"坑道用大型掘削機","zh":"活动HELL"},"pic":{"en":"","jpn":""}},
 {"id":10 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Adversa","jpn":"アドウェルサ","zh":"小岛主（光）"},"pic":{"en":"CfqXHXPUUAAh0PQ.jpg","jpn":"CT6cgc5UYAIhJoB.jpg"}},
 {"id":11 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Colossus","jpn":"コロッサス","zh":"小岛主（火）"},"pic":{"en":"CfqW62PUAAA6QTY.jpg","jpn":"CT6cUf8VEAEBaEb.jpg"}},
 {"id":12 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Celeste","jpn":"セレスト","zh":"小岛主（暗）"},"pic":{"en":"CfqXLhHUEAAF92L.jpg","jpn":"CT6cmzjUcAIvSo_.jpg"}},
@@ -78,6 +75,6 @@
 {"id":82 ,"level":100,"TYPE":"FOUR_BEASTS"    ,"names":{"en":"Huanglong","jpn":"黄龍","zh":"黄龙"},"pic":{"en":"ClrgGy_VYAAz-yc.jpg","jpn":"ClrgFhVVYAECRRD.jpg"}},
 {"id":83 ,"level":100,"TYPE":"FOUR_BEASTS"    ,"names":{"en":"Qilin","jpn":"黒麒麟","zh":"黑麒麟"},"pic":{"en":"ClrgI8vUoAEhtoU.jpg","jpn":"ClrgH4wUYAAax1o.jpg"}}
 ],
-"version":66,
+"version":67,
 "method":1
 }
