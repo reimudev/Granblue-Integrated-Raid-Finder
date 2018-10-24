@@ -3,6 +3,8 @@
 {"id":0 ,"level":30 ,"TYPE":"EVENT"     ,"names":{"en":"Pisard","jpn":"ピーサード","zh":"活动VH"},"pic":{"en":"","jpn":""}},
 {"id":1 ,"level":50 ,"TYPE":"EVENT"     ,"names":{"en":"Pisard","jpn":"ピーサード","zh":"活动Ex"},"pic":{"en":"","jpn":""}},
 {"id":2 ,"level":60 ,"TYPE":"EVENT"     ,"names":{"en":"Desperate Pisard","jpn":"捨て身のピーサード","zh":"活动Ex+"},"pic":{"en":"","jpn":""}},
+{"id":3 ,"level":30 ,"TYPE":"EVENT"     ,"names":{"en":"Nagelwolf","jpn":"ナーゲルヴォルフ","zh":"纳格尔狼"},"pic":{"en":"DqPT-TwVYAAyqAZ.jpg","jpn":"DqPT9ALVYAAZjRc.jpg"}},
+{"id":4 ,"level":50 ,"TYPE":"EVENT"     ,"names":{"en":"Bone Dragon","jpn":"ボーンドラゴン","zh":"骨龙"},"pic":{"en":"DqPUBhKUwAEI2Ht.jpg","jpn":"DqPT_e6U8AEc7m0.jpg"}},
 {"id":10 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Adversa","jpn":"アドウェルサ","zh":"小岛主（光）"},"pic":{"en":"CfqXHXPUUAAh0PQ.jpg","jpn":"CT6cgc5UYAIhJoB.jpg"}},
 {"id":11 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Colossus","jpn":"コロッサス","zh":"小岛主（火）"},"pic":{"en":"CfqW62PUAAA6QTY.jpg","jpn":"CT6cUf8VEAEBaEb.jpg"}},
 {"id":12 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Celeste","jpn":"セレスト","zh":"小岛主（暗）"},"pic":{"en":"CfqXLhHUEAAF92L.jpg","jpn":"CT6cmzjUcAIvSo_.jpg"}},
