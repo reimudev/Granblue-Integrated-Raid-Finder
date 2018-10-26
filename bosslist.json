@@ -1,8 +1,5 @@
 {  
-"list":[   
-{"id":0 ,"level":30 ,"TYPE":"EVENT"     ,"names":{"en":"Pisard","jpn":"ピーサード","zh":"活动VH"},"pic":{"en":"","jpn":""}},
-{"id":1 ,"level":50 ,"TYPE":"EVENT"     ,"names":{"en":"Pisard","jpn":"ピーサード","zh":"活动Ex"},"pic":{"en":"","jpn":""}},
-{"id":2 ,"level":60 ,"TYPE":"EVENT"     ,"names":{"en":"Desperate Pisard","jpn":"捨て身のピーサード","zh":"活动Ex+"},"pic":{"en":"","jpn":""}},
+"list":[
 {"id":3 ,"level":30 ,"TYPE":"EVENT"     ,"names":{"en":"Nagelwolf","jpn":"ナーゲルヴォルフ","zh":"纳格尔狼"},"pic":{"en":"DqPT-TwVYAAyqAZ.jpg","jpn":"DqPT9ALVYAAZjRc.jpg"}},
 {"id":4 ,"level":50 ,"TYPE":"EVENT"     ,"names":{"en":"Bone Dragon","jpn":"ボーンドラゴン","zh":"骨龙"},"pic":{"en":"DqPUBhKUwAEI2Ht.jpg","jpn":"DqPT_e6U8AEc7m0.jpg"}},
 {"id":10 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Adversa","jpn":"アドウェルサ","zh":"小岛主（光）"},"pic":{"en":"CfqXHXPUUAAh0PQ.jpg","jpn":"CT6cgc5UYAIhJoB.jpg"}},
@@ -80,5 +77,5 @@
 {"id":82 ,"level":100,"TYPE":"FOUR_BEASTS"    ,"names":{"en":"Huanglong","jpn":"黄龍","zh":"黄龙"},"pic":{"en":"ClrgGy_VYAAz-yc.jpg","jpn":"ClrgFhVVYAECRRD.jpg"}},
 {"id":83 ,"level":100,"TYPE":"FOUR_BEASTS"    ,"names":{"en":"Qilin","jpn":"黒麒麟","zh":"黑麒麟"},"pic":{"en":"ClrgI8vUoAEhtoU.jpg","jpn":"ClrgH4wUYAAax1o.jpg"}}
 ],
-"version":74
+"version":75
 }
