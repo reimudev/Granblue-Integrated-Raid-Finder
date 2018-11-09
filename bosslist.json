@@ -1,8 +1,7 @@
 {  
 "list":[
-{"id":1 ,"level":30 ,"TYPE":"EVENT"     ,"names":{"en":"Demonbream","jpn":"魔鯛","zh":"活动VH"},"pic":{"en":"","jpn":""}},
-{"id":2 ,"level":50 ,"TYPE":"EVENT"     ,"names":{"en":"Gallardoza","jpn":"ガラルドーザ","zh":"活动Ex"},"pic":{"en":"","jpn":""}},
-{"id":3 ,"level":0,"TYPE":"EVENT"     ,"names":{"en":"Gallardoza (Impossible)","jpn":"ガラルドーザＨＬ","zh":"活动HELL"},"pic":{"en":"","jpn":""}},
+{"id":0 ,"level":30 ,"TYPE":"EVENT"     ,"names":{"en":"Celestial Eye","jpn":"星の眼","zh":"星之眼"},"pic":{"en":"","jpn":""}},
+{"id":1 ,"level":50 ,"TYPE":"EVENT"     ,"names":{"en":"Chimera Yurius","jpn":"キマイラ・ユリウス","zh":"奇美拉·尤利乌斯"},"pic":{"en":"","jpn":""}},
 {"id":10 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Adversa","jpn":"アドウェルサ","zh":"小岛主（光）"},"pic":{"en":"CfqXHXPUUAAh0PQ.jpg","jpn":"CT6cgc5UYAIhJoB.jpg"}},
 {"id":11 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Colossus","jpn":"コロッサス","zh":"小岛主（火）"},"pic":{"en":"CfqW62PUAAA6QTY.jpg","jpn":"CT6cUf8VEAEBaEb.jpg"}},
 {"id":12 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Celeste","jpn":"セレスト","zh":"小岛主（暗）"},"pic":{"en":"CfqXLhHUEAAF92L.jpg","jpn":"CT6cmzjUcAIvSo_.jpg"}},
