@@ -1,5 +1,11 @@
 {  
 "list":[
+{"id":0 ,"level":50 ,"TYPE":"EVENT"     ,"names":{"en":"Gugalanna","jpn":"グガランナ","zh":"VH"},"pic":{"en":"DsGojkVVsAAn7Dl.jpg","jpn":"DsGogpbU4AEUqgD.jpg"}},
+{"id":1 ,"level":60 ,"TYPE":"EVENT"     ,"names":{"en":"Gugalanna","jpn":"グガランナ","zh":"EX"},"pic":{"en":"DsGooL-VAAAUuHI.jpg","jpn":"DsGomZqUcAAnxgm.jpg"}},
+{"id":2 ,"level":75 ,"TYPE":"EVENT"     ,"names":{"en":"Viridian Horn","jpn":"エメラルドホーン","zh":"EX+"},"pic":{"en":"DsGosIfU8AAVUrb.jpg","jpn":"DsGoqUiUcAAWvhN.jpg"}},
+{"id":3 ,"level":90 ,"TYPE":"EVENT"     ,"names":{"en":"Freyr","jpn":"フレイ","zh":""},"pic":{"en":"DsGoyVQVYAEACnb.jpg","jpn":"DsGoxCTU0AARQuC.jpg"}},
+{"id":4 ,"level":95 ,"TYPE":"EVENT"     ,"names":{"en":"Freyr","jpn":"フレイ","zh":""},"pic":{"en":"","jpn":""}},
+{"id":5 ,"level":100,"TYPE":"EVENT"     ,"names":{"en":"Freyr","jpn":"フレイ","zh":""},"pic":{"en":"","jpn":""}},
 {"id":10 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Adversa","jpn":"アドウェルサ","zh":"小岛主（光）"},"pic":{"en":"CfqXHXPUUAAh0PQ.jpg","jpn":"CT6cgc5UYAIhJoB.jpg"}},
 {"id":11 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Colossus","jpn":"コロッサス","zh":"小岛主（火）"},"pic":{"en":"CfqW62PUAAA6QTY.jpg","jpn":"CT6cUf8VEAEBaEb.jpg"}},
 {"id":12 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Celeste","jpn":"セレスト","zh":"小岛主（暗）"},"pic":{"en":"CfqXLhHUEAAF92L.jpg","jpn":"CT6cmzjUcAIvSo_.jpg"}},
