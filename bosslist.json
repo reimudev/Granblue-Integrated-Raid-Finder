@@ -2,6 +2,7 @@
 "list":[
 {"id":0 ,"level":30 ,"TYPE":"EVENT"     ,"names":{"en":"Eerie Cat","jpn":"奇妙なネコ","zh":"活动VH"},"pic":{"en":"","jpn":""}},
 {"id":1 ,"level":50 ,"TYPE":"EVENT"     ,"names":{"en":"Eerie Cat","jpn":"奇妙なネコ","zh":"活动EX"},"pic":{"en":"","jpn":""}},
+{"id":2 ,"level":60 ,"TYPE":"EVENT"     ,"names":{"en":"Voracicat","jpn":"ヤマネコ","zh":"活动EX2"},"pic":{"en":"DuWjIqOUwAAwmIs.jpg","jpn":"DuWjGxVVsAEINt1.jpg"}},
 {"id":10 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Adversa","jpn":"アドウェルサ","zh":"小岛主（光）"},"pic":{"en":"CfqXHXPUUAAh0PQ.jpg","jpn":"CT6cgc5UYAIhJoB.jpg"}},
 {"id":11 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Colossus","jpn":"コロッサス","zh":"小岛主（火）"},"pic":{"en":"CfqW62PUAAA6QTY.jpg","jpn":"CT6cUf8VEAEBaEb.jpg"}},
 {"id":12 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Celeste","jpn":"セレスト","zh":"小岛主（暗）"},"pic":{"en":"CfqXLhHUEAAF92L.jpg","jpn":"CT6cmzjUcAIvSo_.jpg"}},
