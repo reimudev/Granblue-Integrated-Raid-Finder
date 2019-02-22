@@ -2,7 +2,7 @@
 "list":[
 {"id":0 ,"level":30 ,"TYPE":"EVENT"     ,"names":{"en":"Belial","jpn":"ベリアル","zh":"活动VH"},"pic":{"en":"DXPvvrSV4AIB3H5.jpg","jpn":"DXPvrA3VwAAs8nZ.jpg"}},
 {"id":1 ,"level":50 ,"TYPE":"EVENT"     ,"names":{"en":"Avatar","jpn":"アバター","zh":"活动Ex"},"pic":{"en":"DXPvyhoU8AAl2XR.jpg","jpn":"DXPvxTYU8AAHAB8.jpg"}},
-{"id":2 ,"level":0,  "TYPE":"EVENT"     ,"names":{"en":"Avatar (Impossible)","jpn":"アバターHL","zh":"活动HL"},"pic":{"en":"DZVlsKMVMAAOgTU.jpg","jpn":"DZVlq39U0AIRPF2.jpg"}}},
+{"id":2 ,"level":0,  "TYPE":"EVENT"     ,"names":{"en":"Avatar (Impossible)","jpn":"アバターHL","zh":"活动HL"},"pic":{"en":"DZVlsKMVMAAOgTU.jpg","jpn":"DZVlq39U0AIRPF2.jpg"}},
 {"id":10 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Adversa","jpn":"アドウェルサ","zh":"小岛主（光）"},"pic":{"en":"CfqXHXPUUAAh0PQ.jpg","jpn":"CT6cgc5UYAIhJoB.jpg"}},
 {"id":11 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Colossus","jpn":"コロッサス","zh":"小岛主（火）"},"pic":{"en":"CfqW62PUAAA6QTY.jpg","jpn":"CT6cUf8VEAEBaEb.jpg"}},
 {"id":12 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Celeste","jpn":"セレスト","zh":"小岛主（暗）"},"pic":{"en":"CfqXLhHUEAAF92L.jpg","jpn":"CT6cmzjUcAIvSo_.jpg"}},
