@@ -3,6 +3,8 @@
 {"id":0 ,"level":30 ,"TYPE":"EVENT"     ,"names":{"en":"Avatar Cherub","jpn":"アバタール・ケルブ","zh":"活动VH"},"pic":{"en":"D0eB0BDUYAEjujM.jpg","jpn":"D0eByalU8AA0Yqo.jpg"}},
 {"id":1 ,"level":50 ,"TYPE":"EVENT"     ,"names":{"en":"Avatar Belial","jpn":"アバタール・ベリアル","zh":"活动Ex"},"pic":{"en":"D0eB3C8UwAAgwmD.jpg","jpn":"D0eB1eoU0AE_d_d.jpg"}},
 {"id":2 ,"level":0  ,"TYPE":"EVENT"     ,"names":{"en":"Belial (Impossible)","jpn":"ベリアルＨＬ","zh":"活动HL"},"pic":{"en":"D0eB6OGUwAAte6z.jpg","jpn":"D0eB4zHV4AIlXuL.jpg"}},
+{"id":3 ,"level":30 ,"TYPE":"EVENT"     ,"names":{"en":"Nigredo","jpn":"ニグレド","zh":"活动VH"},"pic":{"en":"D1bY3HIVYAAvFz4.jpg","jpn":"D1bY2GuVYAU3h7w.jpg"}},
+{"id":4 ,"level":50 ,"TYPE":"EVENT"     ,"names":{"en":"Alpheus","jpn":"アルフェウス","zh":"活动Ex"},"pic":{"en":"D1b5pBlUwAUa1Wa.jpg","jpn":"D1b5n8cV4AA4UhP.jpg"}},
 {"id":10 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Adversa","jpn":"アドウェルサ","zh":"小岛主（光）"},"pic":{"en":"CfqXHXPUUAAh0PQ.jpg","jpn":"CT6cgc5UYAIhJoB.jpg"}},
 {"id":11 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Colossus","jpn":"コロッサス","zh":"小岛主（火）"},"pic":{"en":"CfqW62PUAAA6QTY.jpg","jpn":"CT6cUf8VEAEBaEb.jpg"}},
 {"id":12 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Celeste","jpn":"セレスト","zh":"小岛主（暗）"},"pic":{"en":"CfqXLhHUEAAF92L.jpg","jpn":"CT6cmzjUcAIvSo_.jpg"}},
