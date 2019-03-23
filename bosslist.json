@@ -1,7 +1,7 @@
 {  
 "list":[
 {"id":0 ,"level":100,"TYPE":"EVENT"     ,"names":{"en":"Xeno Ifrit","jpn":"ゼノ・イフリート","zh":"火六道"},"pic":{"en":"C4sbjWHWQAMyCG_.jpg","jpn":"C4sbgzyWMAA3B8D.jpg"}},
-{"id":0 ,"level":100,"TYPE":"EVENT"     ,"names":{"en":"Xeno Sagittarius","jpn":"ゼノ・サジタリウス","zh":"风六道"},"pic":{"en":"DICaInLUAAAG0kk.jpg","jpn":"DICaGf2U0AA8rJE.jpg"}},
+{"id":1 ,"level":100,"TYPE":"EVENT"     ,"names":{"en":"Xeno Sagittarius","jpn":"ゼノ・サジタリウス","zh":"风六道"},"pic":{"en":"DICaInLUAAAG0kk.jpg","jpn":"DICaGf2U0AA8rJE.jpg"}},
 {"id":10 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Adversa","jpn":"アドウェルサ","zh":"小岛主（光）"},"pic":{"en":"CfqXHXPUUAAh0PQ.jpg","jpn":"CT6cgc5UYAIhJoB.jpg"}},
 {"id":11 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Colossus","jpn":"コロッサス","zh":"小岛主（火）"},"pic":{"en":"CfqW62PUAAA6QTY.jpg","jpn":"CT6cUf8VEAEBaEb.jpg"}},
 {"id":12 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Celeste","jpn":"セレスト","zh":"小岛主（暗）"},"pic":{"en":"CfqXLhHUEAAF92L.jpg","jpn":"CT6cmzjUcAIvSo_.jpg"}},
