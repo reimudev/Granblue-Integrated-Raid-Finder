@@ -1,17 +1,17 @@
 {
-  "version":1,
+  "version":2,
   "list":[
       {
         "url":"103.29.69.222:11451",
-        "name":"Melleau"
+        "name":"Uno"
       },
       {
         "url":"93.93.246.51:11451",
-        "name":"Yodarha"
+        "name":"Sone"
       },
       {
         "url":"172.105.205.127:11451",
-        "name":"Yuel"
+        "name":"Thalatha"
       }
    ]
 }
