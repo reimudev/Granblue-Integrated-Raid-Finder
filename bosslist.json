@@ -82,7 +82,7 @@
 ],
 "version":105,
 "serverlist":{
-  "version":3,
+  "version":4,
   "list":[
       {
         "url":"103.29.69.222:11451",
@@ -92,7 +92,7 @@
       {
         "url":"93.93.246.51:11451",
         "name":"Sone",
-        "enabled":true
+        "enabled":false
       },
       {
         "url":"172.105.205.127:11451",
