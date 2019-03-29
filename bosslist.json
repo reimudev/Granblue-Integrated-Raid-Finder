@@ -80,5 +80,25 @@
 {"id":83 ,"level":100,"TYPE":"FOUR_BEASTS"    ,"names":{"en":"Qilin","jpn":"黒麒麟","zh":"黑麒麟"},"pic":{"en":"ClrgI8vUoAEhtoU.jpg","jpn":"ClrgH4wUYAAax1o.jpg"}},
 {"id":84 ,"level":0,"TYPE":"FOUR_BEASTS"    ,"names":{"en":"Huanglong & Qilin (Impossible)","jpn":"黄龍・黒麒麟HL","zh":"黄龙·黑麒麟"},"pic":{"en":"","jpn":""}}
 ],
-"version":105
+"version":105,
+"serverlist":{
+  "version":3,
+  "list":[
+      {
+        "url":"103.29.69.222:11451",
+        "name":"Uno",
+        "enabled":true
+      },
+      {
+        "url":"93.93.246.51:11451",
+        "name":"Sone",
+        "enabled":true
+      },
+      {
+        "url":"172.105.205.127:11451",
+        "name":"Thalatha",
+        "enabled":true
+      }
+   ]
+}
 }
