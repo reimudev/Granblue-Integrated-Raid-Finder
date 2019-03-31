@@ -1,6 +1,5 @@
 {  
 "list":[
-{"id":0 ,"level":30 ,"TYPE":"EVENT"     ,"names":{"en":"Machorilla","jpn":"ゴリマッチョ","zh":"活动VH"},"pic":{"en":"","jpn":""}},
 {"id":1 ,"level":50 ,"TYPE":"EVENT"     ,"names":{"en":"Psycho Vira MK II","jpn":"メカサイコヴィーラ Mk.II","zh":"超级维拉II型EX"},"pic":{"en":"","jpn":""}},
 {"id":2 ,"level":100,"TYPE":"EVENT"     ,"names":{"en":"Psycho Vira MK II","jpn":"メカサイコヴィーラ Mk.II","zh":"超级维拉II型HL"},"pic":{"en":"","jpn":""}},
 {"id":10 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Adversa","jpn":"アドウェルサ","zh":"小岛主（光）"},"pic":{"en":"CfqXHXPUUAAh0PQ.jpg","jpn":"CT6cgc5UYAIhJoB.jpg"}},
