@@ -1,5 +1,7 @@
 {  
 "list":[
+{"id":0 ,"level":30 ,"TYPE":"EVENT"     ,"names":{"en":"Wolfire War Beast","jpn":"狼炎府の軍獣","zh":"活动VH"},"pic":{"en":"D3rCbXuUUAAUEyi.jpg","jpn":"D3rCZ7RU0AAVHoE.jpg"}},
+{"id":1 ,"level":50 ,"TYPE":"EVENT"     ,"names":{"en":"Grueler","jpn":"ゲルラ","zh":"活动EX"},"pic":{"en":"D3rCdx9UEAADJFw.jpg","jpn":"D3rCcoeUwAEegZd.jpg"}},
 {"id":10 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Adversa","jpn":"アドウェルサ","zh":"小岛主（光）"},"pic":{"en":"CfqXHXPUUAAh0PQ.jpg","jpn":"CT6cgc5UYAIhJoB.jpg"}},
 {"id":11 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Colossus","jpn":"コロッサス","zh":"小岛主（火）"},"pic":{"en":"CfqW62PUAAA6QTY.jpg","jpn":"CT6cUf8VEAEBaEb.jpg"}},
 {"id":12 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Celeste","jpn":"セレスト","zh":"小岛主（暗）"},"pic":{"en":"CfqXLhHUEAAF92L.jpg","jpn":"CT6cmzjUcAIvSo_.jpg"}},
