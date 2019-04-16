@@ -1,5 +1,10 @@
 {  
 "list":[
+{"id":0 ,"level":75 ,"TYPE":"EVENT"     ,"names":{"en":"Tyrannus","jpn":"ティラノス","zh":"EX牛"},"pic":{"en":"D4LPqiWU4AEYnCc.jpg","jpn":"D4LPpaqVUAAk728.jpg"}},
+{"id":1 ,"level":80 ,"TYPE":"EVENT"     ,"names":{"en":"Tyrannus","jpn":"ティラノス","zh":"EX+牛"},"pic":{"en":"D4LPtMeU0AALjqP.jpg","jpn":"D4LPr_UU0AEn_Bm.jpg"}},
+{"id":2 ,"level":90 ,"TYPE":"EVENT"     ,"names":{"en":"Cybele","jpn":"キュベレー","zh":"90HELL"},"pic":{"en":"D4LPv8UU4AEEOtt.jpg","jpn":"D4LPu6jUUAA2WPp.jpg"}},
+{"id":3 ,"level":95 ,"TYPE":"EVENT"     ,"names":{"en":"Cybele","jpn":"キュベレー","zh":"95HELL"},"pic":{"en":"","jpn":""}},
+{"id":4 ,"level":100,"TYPE":"EVENT"     ,"names":{"en":"Cybele","jpn":"キュベレー","zh":"100HELL"},"pic":{"en":"","jpn":""}},
 {"id":10 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Adversa","jpn":"アドウェルサ","zh":"小岛主（光）"},"pic":{"en":"CfqXHXPUUAAh0PQ.jpg","jpn":"CT6cgc5UYAIhJoB.jpg"}},
 {"id":11 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Colossus","jpn":"コロッサス","zh":"小岛主（火）"},"pic":{"en":"CfqW62PUAAA6QTY.jpg","jpn":"CT6cUf8VEAEBaEb.jpg"}},
 {"id":12 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Celeste","jpn":"セレスト","zh":"小岛主（暗）"},"pic":{"en":"CfqXLhHUEAAF92L.jpg","jpn":"CT6cmzjUcAIvSo_.jpg"}},
