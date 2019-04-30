@@ -1,5 +1,8 @@
 {  
 "list":[
+{"id":0 ,"level":30 ,"TYPE":"EVENT"     ,"names":{"en":"Fossilized Marauder","jpn":"オールド・マローダー","zh":"活动VH"},"pic":{"en":"D5YFTyHU8AAywZ-.jpg","jpn":"D5YFQ9UVUAEXjz3.jpg"}},
+{"id":1 ,"level":50 ,"TYPE":"EVENT"     ,"names":{"en":"Geo","jpn":"ジオ","zh":"活动EX"},"pic":{"en":"D5YFY8IUEAAFzpm.jpg","jpn":"D5YFWj5VUAE4y8W.jpg"}},
+{"id":2 ,"level":100,"TYPE":"EVENT"     ,"names":{"en":"Geo","jpn":"ジオ","zh":"活动HELL"},"pic":{"en":"D5YFdhzUEAASSK8.jpg","jpn":"D5YFa_RUcAED1fs.jpg"}},
 {"id":10 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Adversa","jpn":"アドウェルサ","zh":"小岛主（光）"},"pic":{"en":"CfqXHXPUUAAh0PQ.jpg","jpn":"CT6cgc5UYAIhJoB.jpg"}},
 {"id":11 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Colossus","jpn":"コロッサス","zh":"小岛主（火）"},"pic":{"en":"CfqW62PUAAA6QTY.jpg","jpn":"CT6cUf8VEAEBaEb.jpg"}},
 {"id":12 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Celeste","jpn":"セレスト","zh":"小岛主（暗）"},"pic":{"en":"CfqXLhHUEAAF92L.jpg","jpn":"CT6cmzjUcAIvSo_.jpg"}},
