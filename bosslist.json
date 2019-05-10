@@ -1,5 +1,7 @@
 {  
 "list":[
+{"id":0 ,"level":100,"TYPE":"EVENT"     ,"names":{"en":"Xeno Cocytus","jpn":"ゼノ・コキュートス","zh":"水六道多人"},"pic":{"en":"DPXLSv2VwAAg9DC.jpg","jpn":"DPXLRenVoAUfB1p.jpg"}},
+{"id":1 ,"level":100,"TYPE":"EVENT"     ,"names":{"en":"Xeno Vohu Manah","jpn":"ゼノ・ウォフマナフ","zh":"土六道多人"},"pic":{"en":"C7FV7OoVoAEr7os.jpg","jpn":"C7FV6BVVoAAA8Ai.jpg"}},
 {"id":10 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Adversa","jpn":"アドウェルサ","zh":"小岛主（光）"},"pic":{"en":"CfqXHXPUUAAh0PQ.jpg","jpn":"CT6cgc5UYAIhJoB.jpg"}},
 {"id":11 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Colossus","jpn":"コロッサス","zh":"小岛主（火）"},"pic":{"en":"CfqW62PUAAA6QTY.jpg","jpn":"CT6cUf8VEAEBaEb.jpg"}},
 {"id":12 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Celeste","jpn":"セレスト","zh":"小岛主（暗）"},"pic":{"en":"CfqXLhHUEAAF92L.jpg","jpn":"CT6cmzjUcAIvSo_.jpg"}},
