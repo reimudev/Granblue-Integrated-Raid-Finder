@@ -92,7 +92,7 @@
       {
         "url":"93.93.246.51:11451",
         "name":"Sone",
-        "enabled":false
+        "enabled":true
       },
       {
         "url":"172.105.205.127:11451",
