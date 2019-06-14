@@ -89,7 +89,7 @@
       {
         "url":"103.29.69.222:11451",
         "name":"Uno",
-        "enabled":false
+        "enabled":true
       },
       {
         "url":"93.93.246.51:11451",
