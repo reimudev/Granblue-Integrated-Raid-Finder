@@ -1,8 +1,5 @@
 {  
 "list":[
-{"id":0 ,"level":30 ,"TYPE":"EVENT","names":{"en":"Unworldly Army","jpn":"異界の軍勢","zh":"活动VH"},"pic":{"en":"79FA1U45II.jpg","jpn":"OblJqFRbtY.jpg"}},
-{"id":1 ,"level":50 ,"TYPE":"EVENT","names":{"en":"Unworldly Army","jpn":"異界の軍勢","zh":"活动EX"},"pic":{"en":"K8HR5PgHJ9.jpg","jpn":"JcPrJseclw.jpg"}},
-{"id":2 ,"level":60 ,"TYPE":"EVENT","names":{"en":"Unworldly Eidolon","jpn":"異界の偶像","zh":"活动Ex+"},"pic":{"en":"HDLIjkdvHa.jpg","jpn":"PQOCzqOoYo.jpg"}},
 {"id":3 ,"level":100 ,"TYPE":"EVENT","names":{"en":"Xeno Corow","jpn":"ゼノ・コロゥ","zh":"光六道"},"pic":{"en":"SIjUhLBQkx.jpg","jpn":"SF8Lv3ovde.jpg"}},
 {"id":10 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Adversa","jpn":"アドウェルサ","zh":"小岛主（光）"},"pic":{"en":"CfqXHXPUUAAh0PQ.jpg","jpn":"CT6cgc5UYAIhJoB.jpg"}},
 {"id":11 ,"level":50 ,"TYPE":"OMEGA_HARD"     ,"names":{"en":"Colossus","jpn":"コロッサス","zh":"小岛主（火）"},"pic":{"en":"CfqW62PUAAA6QTY.jpg","jpn":"CT6cUf8VEAEBaEb.jpg"}},
@@ -84,7 +81,7 @@
 {"id":83 ,"level":100,"TYPE":"FOUR_BEASTS"    ,"names":{"en":"Qilin","jpn":"黒麒麟","zh":"黑麒麟"},"pic":{"en":"ClrgI8vUoAEhtoU.jpg","jpn":"ClrgH4wUYAAax1o.jpg"}},
 {"id":84 ,"level":0,"TYPE":"FOUR_BEASTS"    ,"names":{"en":"Huanglong & Qilin (Impossible)","jpn":"黄龍・黒麒麟HL","zh":"黄龙·黑麒麟"},"pic":{"en":"Ds-X5w5U8AADFNK.jpg","jpn":"Ds-X4ikU0AA_Yzt.jpg"}}
 ],
-"version":136,
+"version":137,
 "serverlist":{
   "version":10,
   "list":[
