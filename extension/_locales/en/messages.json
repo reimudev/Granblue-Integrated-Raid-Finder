@@ -1,0 +1,10 @@
+{
+    "appName": {
+        "message": "Granblue Integrated Raid Finder",
+        "description": ""
+    },
+    "appDesc": {
+        "message": "Convenient raids finder tool for Granblue Fantasy. No dependency on other extension/finder sites.",
+        "description":""
+    }
+}

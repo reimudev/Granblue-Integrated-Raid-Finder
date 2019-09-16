@@ -1,0 +1,11 @@
+/* device-specific styles for PC browser */
+.GBFR_TweetList li{
+    font-size: 15px;
+}
+.GBFR_BossList,.GBFR_TweetList{
+    font-size: 15px;
+}
+#GBFR_Popup{
+    width: 80%;
+    font-size: 15px;
+}

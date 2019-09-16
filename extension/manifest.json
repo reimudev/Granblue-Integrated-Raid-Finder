@@ -1,0 +1,77 @@
+{
+    "manifest_version":2,
+    "name":"__MSG_appName__",
+    "description":"__MSG_appDesc__",
+    "short_name":"__MSG_appName__",
+    "default_locale": "en",
+    "version": "0.1.9.0",
+    "icons": {
+        "16":"img/16.png",
+        "48":"img/48.png",
+        "128":"img/128.png"
+    },
+    "permissions": [
+        "http://game.granbluefantasy.jp/*",
+        "http://gbf.game.mbga.jp/*",
+        "https://twitter.com/i/search/timeline*",
+        "http://103.29.69.222:11451/*",
+        "webRequest", "webRequestBlocking",
+        "storage",
+        "background"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "http://game.granbluefantasy.jp/*"
+                ,"http://gbf.game.mbga.jp/*"
+            ]
+            ,"js": [
+              "js/libs/jq.js"
+            , "js/common/persistence.js"
+            , "js/common/logger.js"
+            , "js/common/i18n.js"
+            , "js/common/twitter.js"
+            , "js/common/boss.js"
+            , "js/common/boss_util.js"
+            , "js/common/boss_list.js"
+            , "js/common/api_call.js"
+            , "js/common/custom_dropdown.js"
+            , "js/plugin-scripts/battle.js"
+            , "js/plugin-scripts/dialogs.js"
+            , "js/plugin-scripts/find_multi.js"
+            ]
+            ,"css":[
+            "css/find_multi.css"
+            ]
+        }
+        ,{
+            "matches": [
+                "http://game.granbluefantasy.jp/*"
+            ]
+            ,"css":[
+                "css/aux-pc.css"
+            ]
+        }
+        ,{
+            "matches": [
+                "http://gbf.game.mbga.jp/*"
+            ]
+            ,"css":[
+                "css/aux-mobile.css"
+            ]
+        }
+    ],
+    "background":{
+        "scripts":["js/common/persistence.js","js/common/boss.js","js/common/boss_list.js","js/plugin-scripts/bg.js"]
+       ,"persistent":true
+    },
+    "browser_action": {
+        "default_popup": "popup/popup.html"
+    },
+    "web_accessible_resources": [
+        "img/*"
+       ,"js/plugin-scripts/basic/*"
+       ,"js/plugin-scripts/css/*"
+       ,"js/plugin-scripts/modules/*"
+    ]
+}

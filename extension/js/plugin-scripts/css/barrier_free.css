@@ -1,0 +1,12 @@
+div.watching-mask{
+    display:none !important;
+}
+div.active-mask{
+    display:none !important;
+}
+div.log-battle{
+    display:none !important;
+}
+div.log-multipop{
+    display:none !important;
+}

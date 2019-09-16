@@ -1,0 +1,25 @@
+/* device-specific styles for mobile or simulated mobile browsers*/
+.GBFR_TweetList li{
+    font-size: 11px;
+}
+.GBFR_BossList,.GBFR_TweetList{
+    font-size: 11px;
+}
+#GBFR_Popup{
+    width: 100%;
+    font-size: 11px;
+}
+.GBFR_BossList{
+    line-height: 24px;
+}
+.GBFR_BossInput{
+    font-size:11px;
+    margin-top: -0.5px;
+}
+.GBFR_refresh_button{
+    height:19px;
+    width:19px;
+}
+.GBFR_IDInput,#GBFR_idEnterButton{
+    height:28px;
+}

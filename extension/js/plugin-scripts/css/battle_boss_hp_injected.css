@@ -1,0 +1,32 @@
+span.gbfbr-hp-left,span.gbfbr-hp-right{
+    font-size: 8px;
+    position: absolute;
+    text-shadow: 0 0 2px black, 0 0 3px black, 0 0 5px black, 0 0 10px black;
+    color:white;
+}
+span.gbfbr-hp-left{
+    left: 2px;
+}
+span.gbfbr-1boss-left{
+    left:10px;
+}
+
+span.gbfbr-hp-right{
+    right: 1px;
+}
+
+.btn-enemy-gauge.prt-enemy-percent{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    transform: none !important;
+}
+
+.gbfbr-1boss{
+    width: 78% !important;
+    padding-top: 8px !important;
+}
+
+.gbfbr-medium-1boss{
+    width: 32% !important;
+    margin-left: 25% !important;
+}

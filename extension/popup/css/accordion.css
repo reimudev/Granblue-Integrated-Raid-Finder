@@ -1,0 +1,24 @@
+.accordion_trigger{
+    border-bottom: 1px solid black;
+    cursor:pointer;
+    user-select: none;
+}
+.accordion_panel{
+    padding:3px 0 3px 1em;
+    display:none;
+}
+.accordion_option_list{
+    list-style: none;
+}
+.before-minus:before{
+    content:'-';
+    display:inline-block;
+    width:1em;
+    text-align: center;
+}
+.before-plus:before{
+    content:'+';
+    display:inline-block;
+    width:1em;
+    text-align: center;
+}

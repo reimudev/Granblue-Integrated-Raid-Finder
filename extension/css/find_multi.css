@@ -1,0 +1,431 @@
+
+#GBFR_Container{
+    /* the left and top value is set dynamically */
+    background-color: white;
+    /*enable preventDefault on passive events*/
+    touch-action: none;
+}
+#GBFR_Container-icon{
+    width:50px;
+    height:50px;
+    border-radius: 30px;
+    border:1px double rgba(0,0,0,0.3);
+    background-color: white;
+    /*background image is loaded by script, because it is from the plugin*/
+    text-align: center;
+    vertical-align: middle;
+    font-family: "Helvetica Neue",Courier New, Courier, monospace;
+    z-index: 999999;
+    position:absolute;
+    left:-15px;
+    top:-15px;
+    cursor:pointer;
+    font-size: 30px;
+    line-height: 50px;
+    -moz-user-select: none;
+    user-select:none;
+}
+#GBFR_Container-icon>img{
+    width:32px;
+    height:32px;
+    margin:9px auto 0px;
+}
+
+.gbfbr_subcontainer,.GBFR_BossList{
+    border:1px solid rgba(0,0,0,0.3);
+    margin-top:-1px;
+}
+
+/*.GBFR_BossList,.gbfbr_subcontainer{
+    z-index: 999998;
+    border:1px solid rgba(0,0,0,0.3);
+}*/
+.GBFR_BossList{
+    width:263px; /*should be 265 but the scroll bar adds 2 extra pixels*/
+    padding:0;
+    margin:0;
+    position: absolute;
+    left: 26px; /*one more px to collapse border*/
+    display: none;
+    max-height:500px;
+    overflow-y:scroll;
+    overflow-x:hidden;
+    border-top: none;
+}
+.GBFR_BossInput{
+    font-size: 15px;
+    display:block;
+    padding-right: 25px;
+    padding-left: 39px;
+    width:226px;
+    border:none;
+    border-bottom: 1px solid rgba(0,0,0,0.3);
+}
+.GBFR_BossList>.incomplete_boss_entry{
+    color:red;
+}
+.GBFR_BossList .listitem,.separator{
+    list-style-type: none;
+    cursor: pointer;
+    background-color: white;
+}
+.GBFR_BossList .listitem{
+    padding-left: 0.5em;
+}
+.GBFR_BossList .listitem>span{
+    white-space: nowrap;
+}
+.GBFR_BossList .separator{
+    color:gray;
+}
+.GBFR_BossList .listitem:hover,.GBFR_BossList .listitem.selected{
+    background-color: blueviolet;
+    color:white;
+}
+.GBFR_BossList .separator:hover{
+    background-color: lightgray;
+    color:black;
+}
+
+.GBFR_refresh_button,.GBFR_refresh_button_spin,.GBFR_coop_refresh_button,.GBFR_coop_refresh_button_spin{
+    width:24px;
+    height:24px;
+    position: absolute;
+    right:1px;
+    top:1px;
+    cursor:pointer;
+}
+
+.GBFR_refresh_button_spin,.GBFR_coop_refresh_button_spin{
+    -webkit-animation:spin 4s linear infinite;
+    animation:spin 1s linear infinite;
+}
+
+.GBFR_hidden_refresh_button{
+    display:none;
+}
+
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+
+.GBFR_TweetList,.GBFR_CoopRoomList{
+    width:290px;
+    background: white;
+    box-sizing: border-box;
+}
+
+.hidden>*:not(.exempt){
+    display: none !important;
+}
+
+.GBFR_TweetList li{
+    cursor:pointer;
+    line-height:1.5em;
+}
+
+.raididspan,.timestampspan,.usernamespan{
+   display:inline-block; 
+   margin-right:0.5em;
+   vertical-align: bottom;/*fix the inline-block-float-up problem*/
+} 
+.raididspan{ 
+  width:30%;
+} 
+.timestampspan{ 
+  width:20%;
+}
+
+.usernamespan{
+    width:40%;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.tweetcontentspan{ 
+   display:block; 
+   font-size:0.8em;
+   word-wrap:break-word;
+}
+
+.GBFR_TweetList>li:hover,.GBFR_BossList>option:hover,.GBFR_CoopRoomList>li:hover{
+    color:white;
+    background-image: none;/*get rid of linear-gradient*/
+    background-color:teal;
+}
+
+.GBFR_TweetList>li.visited_raid{
+    color:white !important;
+    background-color: darkgray !important;
+}
+
+.GBFR_TweetList>li.invalid_raid{
+    color:white !important;
+    background-color: red !important;
+}
+
+/*popup*/
+
+#GBFR_Popup{
+    height: auto;
+    position: fixed;
+    top:10px;
+    opacity: 0;
+    z-index: 90000;
+    left: 50%;
+    font-size: 120%;
+}
+
+#GBFR_Popup > div {
+    position: relative;
+    left: -50%;
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    padding: .75rem 0;
+    border-radius: 0.25rem;
+}
+
+#GBFR_Popup .popup_text {
+    display: inline-block;
+    position: relative;
+    left: 1em;
+    margin-right: 4em;
+}
+
+#GBFR_Popup .popup_text + span {/*cross mark*/
+    top: 0;
+    position: absolute;
+    right: 0;
+    padding: 0.5em;
+    font-size: 150%;
+    line-height: 1;
+    cursor: pointer
+}
+
+#rep_popup *{
+    margin-right: 0.5em;
+}
+
+#rep_popup .rep_popup_label{
+    display: inline-block;
+    width:7em;
+}
+
+#GBFR_PortraitDiv{
+    position: absolute;
+    left:101%;
+    top:20px;/*compensate for tabs*/
+    width:180px;
+    height:150px;
+    background-color: white;
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    display: none;
+}
+
+.gbfbr_subcontainer{
+    float:left;
+    position: relative;
+}
+.gbfbr_raid_subcontainer+.gbfbr_raid_subcontainer{
+    margin-left: -1px;
+    border-left: 1px solid black;
+}
+.gbfbr_raid_subcontainer+.gbfbr_raid_subcontainer .GBFR_BossInput{
+    padding-left: 2px;
+    padding-right:0;
+    width:288px;
+}
+.GBFR_BossInput{
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor:pointer;
+}
+.gbfbr_raid_subcontainer+.gbfbr_raid_subcontainer .GBFR_TweetList li{
+    padding-left: 2px;
+}
+
+/*tab container*/
+
+#GBFR_Container,#tabs{
+    background: transparent;
+}
+#tabs{
+    width:100%;
+    margin-bottom: -1px;
+}
+.tab:first-child{
+    margin-left: 37px;
+}
+#GBFR_Container .tab{
+    background: white;
+    border-radius:8px 8px 0 0;
+    display: inline-block;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    margin-right: 1px;
+    border: 1px solid rgba(0,0,0,0.3);
+    border-bottom: 0;
+}
+#GBFR_Container .tab.active{
+    background-color: blueviolet;
+    border-color:blueviolet;
+    color:white;
+    cursor: pointer;
+}
+
+/*id input container*/
+/*coop subcontainer*/
+/*initial style*/
+.gbfbr_id_input_subcontainer,.gbfbr_coop_subcontainer{
+    display: none;
+}
+
+.GBFR_IDInput,.GBFR_CoopInput{
+    width:250px;
+    display: inline-block;
+    border-bottom: 0;
+    padding-right: 0;
+}
+
+.GBFR_CoopInput{
+    width:340px;
+    font-size:12px;
+    height:25px;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 30px;
+    padding-right: 24px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+#GBFR_idEnterButton{
+    height: 25px;
+    display: inline-block;
+    line-height: 10px;
+    vertical-align: top;
+}
+
+/*coop room prompt popup*/
+
+#coop_room_prompt p{
+    margin:0;
+}
+#coop_room_prompt .coop_room_list_item{
+    line-height: 40px;
+    height:40px;
+    margin-bottom: 10px;
+    white-space: nowrap;
+    padding-left: 5px;
+}
+
+#coop_room_prompt .treasure_insufficient{
+    background-color: lightgray;
+}
+
+#coop_room_prompt .coop_room_treasure_image{
+    height:40px;
+}
+
+#coop_room_prompt span,#coop_room_prompt input[type='radio']{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 0.5em;
+}
+
+#coop_room_prompt input[type='radio']{
+    vertical-align: middle;/*mysterious*/
+    margin-bottom: 25px; /*mysterious*/
+    margin-left: 0;
+    margin-right: 0.5em;
+}
+
+#coop_room_prompt .coop_room_btn_bar{
+    overflow: hidden;
+}
+#coop_room_prompt .coop_room_btn_bar>button{
+    width:48%;
+    display: inline-block;
+    float:left;
+}
+
+#coop_room_prompt .coop_room_btn_bar>button+button{
+    float:right;
+}
+
+.GBFR_CoopRoomList{
+    height:490px;
+    overflow-y:scroll;
+    width:100%;
+}
+
+.GBFR_CoopRoomList li{
+    cursor:pointer;
+    height:65px;
+    font-size: 12px;
+    padding:2px 3px 2px 3px;
+    position: relative;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);;
+}
+.GBFR_CoopRoomList p{
+    margin:0;
+    line-height: 15px;
+    position: relative;
+}
+
+.GBFR_CoopRoomList .coop_room_row1{
+    height: 15px;
+}
+.GBFR_CoopRoomList .coop_room_row2{
+    height: 15px;
+    padding:10px 0 10px 0;
+    font-size: 15px;
+}
+.GBFR_CoopRoomList .coop_room_row3{
+    height: 15px;
+}
+
+.GBFR_CoopRoomList .coop_room_repeating,.GBFR_CoopRoomList .coop_room_key {
+    float: right;
+    padding: 5px;
+    background: blueviolet;
+    color:white;
+    border-radius: 3px;
+    margin-left: 5px;
+}
+
+.GBFR_CoopRoomList .coop_room_key {
+    display: inline-block;
+    width:55px;
+    text-align: center;
+}
+
+.GBFR_CoopRoomList .coop_room_key:hover{
+    background-color: red;
+    color:white;
+}
+
+.GBFR_CoopRoomList .coop_room_rank{
+    position: absolute;
+    left: 10em;
+}
+
+.GBFR_CoopRoomList .coop_room_member_status{
+    float: right;
+}
+
+.GBFR_CoopRoomList .full1{
+    background: linear-gradient(to right, lightgrey 10%, white 10%);
+}
+.GBFR_CoopRoomList .full2{background: linear-gradient(to right, lightgrey 20%, white 20%);}
+.GBFR_CoopRoomList .full3{background: linear-gradient(to right, lightgrey 30%, white 30%);}
+.GBFR_CoopRoomList .full4{background: linear-gradient(to right, lightgrey 40%, white 40%);}
+.GBFR_CoopRoomList .full5{background: linear-gradient(to right, lightgrey 50%, white 50%);}
+.GBFR_CoopRoomList .full6{background: linear-gradient(to right, lightgrey 60%, white 60%);}
+.GBFR_CoopRoomList .full7{background: linear-gradient(to right, lightgrey 70%, white 70%);}
+.GBFR_CoopRoomList .full8{background: linear-gradient(to right, lightgrey 80%, white 80%);}
+.GBFR_CoopRoomList .full9{background: linear-gradient(to right, lightgrey 90%, white 90%);}
+.GBFR_CoopRoomList .full10{background: linear-gradient(to right, lightgrey 100%, white 100%);}

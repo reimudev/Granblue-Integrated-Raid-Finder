@@ -1,0 +1,10 @@
+
+.switch,.switch_handle{
+    height:15px;
+}
+.switch{
+    width:45px;
+}
+.switch_handle{
+    width: 15px;
+}

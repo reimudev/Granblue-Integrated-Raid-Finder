@@ -1,0 +1,105 @@
+body{
+    width:277px;
+    font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
+    padding:3px;
+    font-size: 12px;
+}
+.title_text,.accordion_trigger{
+    font-size: 16px;
+}
+p{
+    line-height: 15px;
+    vertical-align: middle;
+    padding:3px 0;
+}
+p.title{
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+.accordion_option>*{
+    margin-right: 1em;
+    vertical-align: bottom;
+}
+.accordion_option>.switch{
+    float:right;
+}
+.accordion_option{
+    line-height: 20px;
+    vertical-align: bottom;
+    margin-top:2px;
+}
+.warning_message{
+    display: block;
+    color:red;
+    font-weight: bold;
+}
+/*auxiliary hint text*/
+.auxiliary{
+    color:rgba(0,0,0,0.6);
+}
+span.question{
+    background-image: url(../img/question_mark.png);
+    background-repeat: no-repeat;
+    background-position: 0;
+    background-size: 100% 100%;
+    width: 20px;
+    height: 20px;
+    margin-right: 0;
+    display: inline-block;
+    margin-left:3px;
+    cursor:pointer;
+}
+span.desc{
+    display:none;
+}
+
+button{
+    border: 1px solid rgba(0,0,0,0.3);
+    border-radius: 0.25em;
+    background-color: transparent;
+    outline:none;
+    cursor: pointer;
+}
+
+button:active{
+    background-color:rgba(0,0,0,0.3);
+    color:white;
+}
+
+button:disabled{
+    cursor: default;
+    background-color: white;
+    color:rgba(0,0,0,0.3);
+}
+
+div.text-pane{
+    margin-left:0.5em;
+    overflow-y:scroll;
+    height:300px;
+}
+
+.changelog-version{
+    font-weight: bold;
+    border-bottom:1px solid gray;
+}
+
+.changelog-item{
+    margin-top:0.5em;
+}
+.changelog-list>li{
+    margin-top:0.5em;
+}
+.changelog-list>li>p:before{
+    content:'・';
+}
+
+.title>.navigation{
+    position: absolute;
+    left:0;
+    top:3px;
+}
+
+button.row-button{
+    display:inline-block;
+    width:100%;
+}

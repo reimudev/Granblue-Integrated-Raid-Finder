@@ -1,0 +1,10 @@
+{
+    "appName": {
+        "message": "グラブルマルチバトルツール",
+        "description": ""
+    },
+    "appDesc": {
+        "message": "簡単操作でマルチバトルを検索、参加できる。外部プログラム・サイト連動不要。",
+        "description":""
+    }
+}
