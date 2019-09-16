@@ -1,0 +1,132 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>dev.reimu</groupId>
+	<artifactId>HttpGateway</artifactId>
+	<version>1.7.0</version>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+
+	<profiles>
+		<profile>
+			<id>prod</id>
+			<activation>
+				<activeByDefault>true</activeByDefault>
+			</activation>
+			<properties>
+				<profile.env>prod</profile.env>
+			</properties>
+		</profile>
+		<profile>
+            <id>prod2</id>
+            <properties>
+                <profile.env>prod2</profile.env>
+            </properties>
+            <activation>
+                <property>
+                    <name>env</name>
+                    <value>prod2</value>
+                </property>
+            </activation>
+        </profile>
+		<profile>
+			<id>local</id>
+			<properties>
+				<profile.env>abcdef</profile.env>
+			</properties>
+			<activation>
+				<property>
+					<name>env</name>
+					<value>local</value>
+				</property>
+			</activation>
+		</profile>
+	</profiles>
+	
+	<build>
+		<finalName>gateway</finalName>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.7.0</version>
+				<configuration>
+					<source>1.8</source>
+					<target>1.8</target>
+				</configuration>
+			</plugin>
+			<plugin>
+				<artifactId>maven-assembly-plugin</artifactId>
+				<configuration>
+					<archive>
+						<manifest>
+							<mainClass>dev.reimu.gbfraider.Gateway</mainClass>
+						</manifest>
+					</archive>
+					<descriptorRefs>
+						<descriptorRef>jar-with-dependencies</descriptorRef>
+					</descriptorRefs>
+				</configuration>
+			</plugin>
+			<plugin>
+			 <groupId>org.apache.maven.plugins</groupId>
+			 <artifactId>maven-resources-plugin</artifactId>
+			 <version>2.4</version>
+			 <configuration>
+			   <encoding>UTF-8</encoding>
+			   <resources>
+				 <resource>
+				   <directory>/src/main/resources</directory>
+				   <filtering>true</filtering>
+				   <excludes>
+			          <exclude>log4j.properties</exclude>
+			       </excludes>
+				 </resource>
+				 <resource>
+				   <directory>/src/main/resources</directory>
+				   <filtering>false</filtering>
+				   <includes>
+			          <include>log4j.properties</include>
+			       </includes>
+				 </resource>
+				</resources>
+			 </configuration>
+			</plugin>
+		</plugins>
+	</build>
+
+
+	<dependencies>
+		<dependency>
+			<groupId>io.netty</groupId>
+			<artifactId>netty-all</artifactId>
+			<version>4.0.0.Final</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-log4j12</artifactId>
+			<version>1.7.5</version>
+		</dependency>
+
+		<dependency>
+			<groupId>redis.clients</groupId>
+			<artifactId>jedis</artifactId>
+			<version>2.9.0</version>
+		</dependency>
+		
+		<dependency>
+		  <groupId>org.xerial</groupId>
+		  <artifactId>sqlite-jdbc</artifactId>
+		  <version>3.27.2</version>
+		</dependency>
+		
+		<dependency>
+			<groupId>com.fasterxml.jackson.core</groupId>
+			<artifactId>jackson-databind</artifactId>
+			<version>2.9.0</version>
+		</dependency>
+	</dependencies>
+</project>
